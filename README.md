@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Eze 👋
+---
 
-<!--
-**byeze/byeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer based in Salta, Argentina.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently free-lancing, available for any job!
+- ⚙️ I use daily: `.py`, `.js`, `.ts`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
+- 🌱 Learning more about and studying: **React, React Native, CS Algorithms & Open Source Software**
+- 📫 How to reach me: Via e-mail **ezeecalonge@gmail.com**
+- 💜 Interests: artificial intelligence, creative parties, video streaming, gaming & more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web 🌎:
+- 🎧 Listening to all my favorite songs on <a href="https://open.spotify.com/user/ezeecalonge">Spotify</a>
