@@ -5,7 +5,7 @@
 
 - 🏢 I'm currently free-lancing, available for any job!
 - ⚙️ I use daily: `.py`, `.js`, `.ts`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
-- 🌱 Learning more about and studying: **React, React Native, CS Algorithms & Open Source Software**
+- 🌱 Learning more about and studying: **NodeJS, Typescript, React, React Native, CS Algorithms & Open Source Software**
 - 📫 How to reach me: Via e-mail **ezeecalonge@gmail.com**
 - 💜 Interests: artificial intelligence, creative parties, video streaming, gaming & more.
 
