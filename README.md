@@ -10,4 +10,5 @@
 - 💜 Interests: artificial intelligence, creative parties, video streaming, gaming & more.
 
 #### Find me around the web 🌎:
+- Through my **LinkedIn**: <a href="https://www.linkedin.com/in/ezecalonge/">https://www.linkedin.com/in/ezecalonge/</a>
 - 🎧 Listening to all my favorite songs on <a href="https://open.spotify.com/user/ezeecalonge">Spotify</a>
