@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Developer based in Salta, Argentina.
 
-- 🏢 I'm currently free-lancing, available for any job!
+- 🏢 I'm currently working at NaranjaX
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`, `.tsx`
 - 🌱 Learning more about and studying: **NodeJS, Typescript, React, React Native, CS Algorithms & Open Source Software**
 - 📫 How to reach me: Via e-mail **ezeecalonge@gmail.com**
